@@ -1,0 +1,2 @@
+# clawgents-privacy
+Privacy policy
